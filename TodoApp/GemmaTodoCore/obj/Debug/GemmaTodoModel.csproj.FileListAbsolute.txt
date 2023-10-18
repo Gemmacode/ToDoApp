@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\bin\Debug\GemmaTodoCore.dll
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\bin\Debug\GemmaTodoCore.pdb
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\obj\Debug\GemmaTodoModel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\obj\Debug\GemmaTodoModel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\obj\Debug\GemmaTodoCore.dll
+C:\Users\user\Desktop\projects\week-6-task-Gemmacode\TodoApp\GemmaTodoCore\obj\Debug\GemmaTodoCore.pdb
